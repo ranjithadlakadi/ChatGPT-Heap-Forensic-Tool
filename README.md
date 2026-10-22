@@ -151,6 +151,14 @@ Open this HTML file in your browser to inspect the generated report in a more re
 
 A short demonstration video is available alongside this repository to show the workflow from creating a test conversation to examining the generated report.
 
+## 🎥 POC Demo Video
+
+Watch the complete 4–5 minute demonstration to see the tool in action.
+
+▶️ **[Watch the ChatGPT Heap Forensic Tool POC](https://youtu.be/ii-8PKFw1SA)**
+
+The video demonstrates creating a test chat, capturing a browser heap snapshot, running the Python scripts, and viewing the generated report.
+
 ## Disclaimer
 
 This project is intended for educational purposes and authorized testing on your own browser session and test data. It demonstrates examining browser memory and does not bypass ChatGPT account authentication or guarantee recovery of deleted conversations.
